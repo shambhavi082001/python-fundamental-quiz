@@ -1,2 +1,2 @@
 # shambhavi-shukla
-this quiz is based on python language
+this is a quiz test conducted by Digipodium Institute.
