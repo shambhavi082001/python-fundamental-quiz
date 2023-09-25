@@ -1,2 +1,2 @@
 # shambhavi-shukla
-this is a quiz test conducted by Digipodium Institute.
+this is a python quiz test conducted by Digipodium Institute.
